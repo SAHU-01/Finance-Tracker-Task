@@ -15,14 +15,12 @@ const App = () => {
     });
     const datadoughnut = {
         labels: [
-          'Blue',
           'Grey'
         ],
         datasets: [{
           label: 'My First Dataset',
-          data: [300, 50],
+          data: [100],
           backgroundColor: [
-            'blue',
             'grey'
           ],
         }]
