@@ -1,0 +1,32 @@
+export const GraphData = [
+    {
+        id:1,
+        date:10,
+        amount:2000,
+    },
+    {
+        id:2,
+        date:11,
+        amount:500,
+    },
+    {
+        id:3,
+        date:12,
+        amount:1000,
+    },
+    {
+        id:4,
+        date:13,
+        amount:1500,
+    },
+    {
+        id:5,
+        date:14,
+        amount:1200,
+    },
+    {
+        id:6,
+        date:15,
+        amount:1800,
+    }
+]
